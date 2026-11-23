@@ -1,2 +1,2 @@
 # -
- دستیار هوش مصنوعی برای انتخاب واحد 
+ai-university-course-assistant
