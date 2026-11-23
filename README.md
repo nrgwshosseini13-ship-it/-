@@ -1,7 +1,4 @@
-
-
 # AI University Course Registration Assistant
-
 ## 1. Project Overview
 The AI University Course Registration Assistant is an intelligent information system designed to help undergraduate students make better decisions during university course registration.
 
