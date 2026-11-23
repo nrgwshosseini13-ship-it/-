@@ -1,5 +1,4 @@
-# -
-ai-university-course-assistant
+
 
 # AI University Course Registration Assistant
 
