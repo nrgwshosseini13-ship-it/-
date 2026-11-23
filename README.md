@@ -50,4 +50,4 @@ The system focuses on analyzing academic information and assisting undergraduate
 Final course registration and submission through the university system are not included in the initial project scope.
 
 ## 8. Project Status
-Initial planning and system definition.
+Initial planning and system definition..
